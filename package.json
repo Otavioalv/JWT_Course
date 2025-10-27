@@ -1,0 +1,21 @@
+{
+  "name": "jwt_course",
+  "version": "1.0.0",
+  "description": "Criação de uma API CRUD de Users e Posts com autenticação JWT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Otavioalv/JWT_Course.git"
+  },
+  "keywords": [],
+  "author": "otavioalv",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Otavioalv/JWT_Course/issues"
+  },
+  "homepage": "https://github.com/Otavioalv/JWT_Course#readme"
+}
